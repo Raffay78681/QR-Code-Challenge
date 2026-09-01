@@ -11,7 +11,7 @@ body {
     align-items: center;
     min-height: 100vh;
 }
-div {
+.card {
     display: flex;
     gap: 20px;
     align-items: center;
@@ -22,19 +22,19 @@ div {
     padding: 20px;
     border-radius:10px;
 }
-img {
+#qrCode {
     display: block;
     height: auto;
     width: 100%;
     border-radius: 10px;
 }
-p {
+.callToAction {
     font-weight: 400;
     text-align:center;
     color: hsl(216, 15%, 48%);
     font-size: 15px;
 }
-h1 {
+.mainHeading {
     font-size: 24px;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
