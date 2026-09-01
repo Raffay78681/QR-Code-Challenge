@@ -17,7 +17,8 @@ div {
     align-items: center;
     flex-direction: column;
     background-color: white;
-    width: 320px;
+    width: 90%;
+    max-width: 320px;
     padding: 20px;
     border-radius:10px;
 }
