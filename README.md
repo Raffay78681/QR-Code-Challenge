@@ -1,2 +1,2 @@
 # Responsive-design-for-QR-Code-Challenge
-It's the first challenge on Front-end Mentor.
+I created it using HTML and JavaScript and used mainly flexbox.
